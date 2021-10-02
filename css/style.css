@@ -30,6 +30,9 @@ input[type="reset"]:hover {
   cursor: pointer;
   opacity: 85%;
 }
+input[type="reset"] {
+  background-color: #eee;
+}
 .one {
   margin-bottom: 30px;
 }

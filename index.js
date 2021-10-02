@@ -1,5 +1,4 @@
-//(0°C × 9/5) + 32
-//°F
+
 const form = document.forms['form'];
 form.addEventListener('submit', function (e) {
     e.preventDefault()
